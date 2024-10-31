@@ -72,7 +72,7 @@ nav ul li a:hover {
 
 .hero h1 span {
     background: linear-gradient(to right , #ef7477, #ed5c81, #e54692, #d236a8, #b235c1);
-    -webkit-background-composite: text;
+    -webkit-background-clip: text;
     color: transparent;
     font-weight: bolder;
     /* color: orangered; */
@@ -141,7 +141,7 @@ nav ul li a:hover {
 .projects h2 {
     margin-bottom: 20px;
     background-image: linear-gradient(to bottom, #ffd597, #fa9a7b, #f3835f, #eb6c44, #e15427);
-    -webkit-background-composite: text;
+    -webkit-background-clip: text;
     color: transparent;
     font-size: 60px;
 }
@@ -189,7 +189,7 @@ nav ul li a:hover {
     margin-bottom: 20px;
     /* background-image: linear-gradient(to bottom, #62adf3, #4399ec, #3992e9, #2e8ae5, #2283e1); */
     background-image: linear-gradient(to bottom, #86bff6, #6fb0f1, #59a1ec, #4092e7, #2283e1);
-    -webkit-background-composite: text;
+    -webkit-background-clip: text;
     color: transparent;
     /* color: rgb(57, 57, 196); */
     text-decoration: #86bff6;
